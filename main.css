@@ -1,0 +1,30 @@
+.nav {
+    background-color: red;
+}
+
+.nav-link {
+    color: white;
+    background: red; 
+ 
+}
+
+
+.nav-item.nav-link.active {
+    color: red; 
+    background-color: white;
+    border-radius: 0px;
+}
+
+
+.nav-link:hover {
+    color: red;
+    background-color: white;
+    border-radius: 0px;
+    }
+
+
+.nav-item.nav-link:visited {
+    color: white;
+    background-color: green;
+    border-radius: 0px;
+}
