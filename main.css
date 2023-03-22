@@ -1,16 +1,16 @@
 .nav {
-    background-color: red;
+    background-color: #e30613;
 }
 
 .nav-link {
     color: white;
-    background: red; 
+    background: #e30613;
  
 }
 
 
 .nav-item.nav-link.active {
-    color: red; 
+    color: #e30613; 
     background-color: white;
     border-radius: 0px;
     
@@ -18,7 +18,7 @@
 
 
 .nav-link:hover {
-    color: red;
+    color:#e30613;
     background-color: white;
     border-radius: 0px;
     }
@@ -26,6 +26,6 @@
 
 .nav-item.nav-link:visited {
     color: white;
-    background-color: red;
+    background-color:#e30613;
     border-radius: 0px;
 }
