@@ -29,3 +29,8 @@
     background-color:#e30613;
     border-radius: 0px;
 }
+
+.my_btn_class {
+    color: white; 
+    background-color: #e30613;
+}
