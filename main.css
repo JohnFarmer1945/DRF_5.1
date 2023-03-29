@@ -1,11 +1,6 @@
-.nav {
-    background-color: #e30613;
-}
-
 .nav-link {
     color: white;
-    background: #e30613;
- 
+    text-align: center;
 }
 
 
@@ -34,3 +29,5 @@
     color: white; 
     background-color: #e30613;
 }
+
+
